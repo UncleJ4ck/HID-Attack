@@ -44,7 +44,7 @@ It's a scenario where an attacker uses a keyboard or a mouse to physically attac
 
 
 - For the newer versions of Arduino 
-1. Go to ```Sketch > Include a Library > Manage Libraries > Search for "Keyboard" >  and install it 
+1. Go to ```Sketch > Include a Library > Manage Libraries > Search for "Keyboard"``` and install it
 
 ## Components 
 
